@@ -10,7 +10,7 @@ When building a team a user has to make sure he picks players that will bring in
 
 This notebook contains some data manipulation of the processed data gathered from: https://github.com/vaastav/Fantasy-Premier-League/blob/master/data/2023-24/cleaned_players.csv
 
-dataset.py file contains code used to preprocess the gathered data
-player_points.csv file contains the data used in analysis
-analysis_notebook.ipynb is the notebook with the analysis and the code used for it
-FPL 2023-24 Points Analysis.pdf is the final report
+dataset.py file contains code used to preprocess the gathered data<br>
+player_points.csv file contains the data used in analysis<br>
+analysis_notebook.ipynb is the notebook with the analysis and the code used for it<br>
+FPL 2023-24 Points Analysis.pdf is the final report<br>
